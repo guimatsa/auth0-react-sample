@@ -11,7 +11,7 @@ class HomeContent extends React.Component {
   }
 
   render() {
-    return <div>HomeContent</div>;
+    return <div>Infinity Coaching Home Page</div>;
   }
 }
 

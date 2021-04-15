@@ -54,7 +54,7 @@ class InputBar extends React.Component {
   render() {
     return (
       <div>
-        <Form onSubmit={this.handleSubmit}>
+        {/* <Form onSubmit={this.handleSubmit}>
           <Row>
             <Col>
               <div class="form-group">
@@ -113,7 +113,7 @@ class InputBar extends React.Component {
           <Button variant="primary" type="submit">
             Submit
           </Button>
-        </Form>
+        </Form> */}
       </div>
     );
   }
